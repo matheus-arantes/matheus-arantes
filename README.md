@@ -1,12 +1,6 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br>  I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack junior-level developer</strong> focused on web development.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-arantes" />
-</a>
 
-
- </div>
  
  &nbsp;
  &nbsp;
